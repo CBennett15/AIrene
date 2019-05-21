@@ -18,6 +18,8 @@ Other features include a calendar, a chart to record mood over time, a breathing
 - [Cloud Firestore](https://cloud.google.com/firestore/) - database
 - [Firebase Authentication](https://firebase.google.com/products/auth) - User authentication
 
+A Link to the Back End code can be found [here](https://github.com/projectgrotch/project-be)
+
 ### Acknowledgements
 
 Everyone in Project Grotch.
