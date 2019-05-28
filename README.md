@@ -20,6 +20,14 @@ Other features include a calendar, a chart to record mood over time, a breathing
 
 A Link to the Back End code can be found [here](https://github.com/projectgrotch/project-be)
 
+## Screenshots of AIrene
+
+![image](https://user-images.githubusercontent.com/46065533/58484255-9e55b400-8159-11e9-9cb3-a58f3c4155cc.png)
+![image](https://user-images.githubusercontent.com/46065533/58484306-b88f9200-8159-11e9-8afa-585e96b74f17.png)
+![image](https://user-images.githubusercontent.com/46065533/58484421-ef65a800-8159-11e9-8ff8-31f23921ec29.png)
+![image](https://user-images.githubusercontent.com/46065533/58484353-cfce7f80-8159-11e9-9ae5-8966c103be55.png)
+![image](https://user-images.githubusercontent.com/46065533/58484457-02787800-815a-11e9-9ed8-28f9c13dbed2.png)
+
 ### Acknowledgements
 
 Everyone in Project Grotch.
